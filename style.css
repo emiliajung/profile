@@ -1,0 +1,56 @@
+h2 {
+  color: #B05A7A;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+body {
+  color: #00425A;
+  background-color: #F7F9FC;
+  font-size: 19px;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px;
+  margin: 15px;
+}
+
+h3 {
+  font-size: 20;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+#logo {
+  border-radius: 50%;
+  border: 3px solid #aa798b;
+  margin: 10px;
+}
+
+.lewagon_link {
+  color: white;
+  background-color:#B05A7A;
+  padding: 8px 12px;
+  border-radius: 3px;
+  font-family: sans-serif;
+  font-size: 15;
+  margin: 15px;
+  text-decoration: none;
+}
+
+.button {
+  color:#00425A;
+  font-size: 40px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+div {
+  border: 2px solid white;
+  background-color: white;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  margin: 20px;
+  border-radius: 10px;
+}
